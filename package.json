@@ -1,0 +1,12 @@
+{
+  "name": "telegram-headless-bot",
+  "version": "1.0.0",
+  "description": "Run HTML signal bot 24/7 offline",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
